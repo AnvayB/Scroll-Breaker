@@ -1,0 +1,50 @@
+#mindful-scroll-modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    z-index: 999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .mindful-box {
+    background: #111;
+    color: white;
+    padding: 20px 24px;
+    border-radius: 12px;
+    text-align: center;
+    width: 260px;
+    font-family: system-ui, sans-serif;
+  }
+  
+  .mindful-box p {
+    margin-bottom: 16px;
+    font-size: 16px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  
+  button {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  #yes-btn {
+    background: #22c55e;
+    color: black;
+  }
+  
+  #no-btn {
+    background: #ef4444;
+    color: white;
+  }
+  
