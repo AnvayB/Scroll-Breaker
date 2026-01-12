@@ -9,6 +9,13 @@ A Chrome extension that helps you stay mindful while browsing short-form content
 - **Response Tracking**: Your Y/N responses are saved locally for personal reflection
 - **Works on**: YouTube Shorts and TikTok
 
+**YouTube Shorts**
+<img width="1438" height="775" alt="YouTube Shorts" src="https://github.com/user-attachments/assets/81b9ef1f-37ee-411e-981d-d3aa49b4cbfd" />
+
+**Tiktok**
+<img width="1438" height="775" alt="Tiktok" src="https://github.com/user-attachments/assets/44b557d9-9d0a-4ed9-8197-456979d8a08f" />
+
+
 ## Installation
 
 1. Download or clone this repository
