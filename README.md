@@ -1,4 +1,4 @@
-# Mindful Scroll Check
+# Scroll Breaker
 
 A Chrome extension that helps you stay mindful while browsing short-form content platforms like YouTube Shorts and TikTok.
 
